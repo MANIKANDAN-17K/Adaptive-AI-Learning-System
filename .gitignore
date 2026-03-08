@@ -1,0 +1,37 @@
+# Environment variables
+
+.env
+.env.*
+
+# Python
+
+**pycache**/
+*.pyc
+venv/
+env/
+.venv/
+
+# Node / React
+
+node_modules/
+build/
+dist/
+
+# Logs
+
+*.log
+
+# Database
+
+*.sqlite3
+*.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
